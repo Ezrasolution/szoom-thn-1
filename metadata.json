@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartZoom Tutor SR - Tahun 1",
+  "description": "Platform pembelajaran interaktif untuk murid Tahun 1 berdasarkan kurikulum SmartZoom Tutor, dilengkapi dengan Cikgu AI untuk bimbingan belajar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
